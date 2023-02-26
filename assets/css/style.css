@@ -20,10 +20,10 @@ body{
     margin-left: 80px;
 }
 
-.main .image{
+.image{
     height: 100%;
     background-repeat: no-repeat;
-    background-size: cover;
+    /* background-size: cover; */
 }
 
 .btnn{
